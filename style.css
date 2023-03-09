@@ -7,13 +7,13 @@
     width: 2556px;
     height: 860px;
     border: 1px solid orange;
-    background-image: url(terra.jpg);
+    background-image: url(joguinho.js/terra.jpg);
 }
 #personagem{
     width: 280px;
     height: 270px;
     position: relative;
-    background-image: url(nv2.png);
+    background-image: url(joguinho.js/nv2.png);
     top: 150px;
 }
 
@@ -30,7 +30,7 @@
 #quadrado{
     width: 150px;
     height: 130px;
-    background-image: url(as1.png);
+    background-image: url(joguinho.js/as1.png);
     position: relative;
     top: 20px;
     left: 480px;
