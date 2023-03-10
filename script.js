@@ -4,6 +4,7 @@ let quadrado = document.querySelector("#quadrado");
 function start(){
     var myDiv = document.getElementById("game");
     myDiv.innerHTML = " <div id='personagem'></div> <div id='quadrado'></div>";
+    pular();
 };
 function pular(){
     let personagem = document.querySelector("#personagem");

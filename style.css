@@ -4,7 +4,7 @@
     
 }
 #game{
-    width: 2556px;
+    max-width: 2556px;
     height: 860px;
     border: 1px solid orange;
     background-image: url(terra.jpg);
@@ -15,6 +15,7 @@
     position: relative;
     background-image: url(nv2.png);
     top: 150px;
+
 }
 
 .animar{ 
